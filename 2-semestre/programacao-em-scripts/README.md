@@ -1,6 +1,6 @@
-# Programação em Scripts em JavaScript
+# Programação em Scripts
 
-Exercícios e atividades desenvolvidos na disciplina **Programação em Scripts em JavaScript**.
+Exercícios e atividades desenvolvidos na disciplina **Programação em Scripts**.
 
 ## Objetivo da disciplina
 
