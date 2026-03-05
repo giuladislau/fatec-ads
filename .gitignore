@@ -53,3 +53,28 @@ dkms.conf
 
 # Pastas de output de exercícios
 **/output/
+
+# Node
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Ambiente / variáveis
+.env
+.env.*
+
+# Editor
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Dependências locais
+dist/
+build/
